@@ -1,0 +1,21 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.stylelint": true,
+    },
+    "css.validate": false,
+    "scss.validate": false,
+    "[html]": {
+    },
+    "[css]": {
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
